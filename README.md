@@ -38,17 +38,3 @@ Neste projeto apliquei os seguintes pontos:
 + Mobile first;
 + Utilização da lib JS <a href="https://scrollrevealjs.org">Scroll Reveal</a>.
 
----
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/lucyanovidio.png" width="100px" />
-    </td>
-    <td>
-      Feito por <a href="https://github.com/lucyanovidio">Lucyan Ovídio.</a> 🙋🏿‍♂️
-    </td>
-  </tr>
-</table>
-
-
