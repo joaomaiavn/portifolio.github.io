@@ -1,4 +1,4 @@
-<h1 align="center">Portifólio - Lucyan 💻</h1>
+<h1 align="center">Portifólio - João Maia 💻</h1>
 
 ![Imagem do projeto finalizado](assets/images/projects/portifolio.png)
 
@@ -51,7 +51,4 @@ Neste projeto apliquei os seguintes pontos:
   </tr>
 </table>
 
-## 🏆 Licença
 
-The [MIT License](./LICENSE).
-# portifolio.github.io
