@@ -107,7 +107,7 @@ function projetos(section) {
                   />
                 </svg>
               </a>
-              <a href="https://github.com/joaomaiavn/portifolio.io" target="_blank" title="Ver Projeto">
+              <a href="https://github.com/joaomaiavn/portifolio.github.io" target="_blank" title="Ver Projeto">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"

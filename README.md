@@ -36,4 +36,9 @@ Neste projeto apliquei os seguintes pontos:
 + Pontos de acessibilidade;
 + Responsividade;
 + Mobile first;
+<<<<<<< HEAD
 + Utilização da lib JS <a href="https://scrollrevealjs.org">Scroll Reveal</a>.
+=======
++ Utilização da lib JS <a href="https://scrollrevealjs.org">Scroll Reveal</a>.
+
+>>>>>>> fdd6e6ad8608ce9fc6c2e5ab6ef5027f789d1594
