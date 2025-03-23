@@ -40,3 +40,7 @@ Neste projeto apliquei os seguintes pontos:
 + Utilização da lib JS <a href="https://scrollrevealjs.org">Scroll Reveal</a>.
 =======
 + Utilização da lib JS <a href="https://scrollrevealjs.org">Scroll Reveal</a>.
+<<<<<<< HEAD
+=======
+
+
