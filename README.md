@@ -2,7 +2,7 @@
 
 ![Imagem do projeto finalizado](assets/images/projects/portifolio.png)
 
-<h4 align="center"><a href="portifolio.github.io">Confira o projeto aqui</a></h4>
+<h4 align="center"><a href="https://joaomaiavn.github.io/portifolio.github.io/">Confira o projeto aqui</a></h4>
 
 ---
 
